@@ -1,5 +1,5 @@
--- #Beyond Reborn Robot
--- #@BeyondTeam
+-- #Days_Gone Reborn Robot
+-- #@Days_Gone_boot
 
 tdcli = dofile('./libs/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
@@ -80,10 +80,10 @@ function create_config( )
 		"msg-checks",
 		"plugins",
 		"tools",
-	    "fun",
+	        "cleanMember"
 	},
     sudo_users = {
-   157059515,
+   192718908,
    sudo_id
 },
     admins = {},
@@ -92,29 +92,21 @@ function create_config( )
     info_text = [[》Beyond Reborn V5.0
 An advanced administration bot based on https://valtman.name/telegram-cli
 
-》https://github.com/BeyondTeam/BDReborn
+》https://github.com/sadikrapre12/Days-Gone.git
 
 》Admins :
-》@SoLiD ➣ Founder & Developer《
-》@Makan ➣ Developer & Sponser《
-》@Rixel ➣ Developer 《
-》@Exacute ➣ Developer《
-》@ToOfan ➣ Developer《
-》@CiveY ➣ Developer
-》@K_a_I_i_I_i_n_u_x ➣ Developer《
-》@CliFather ➣ Developer《
+》@dev_sadik ➣ Founder & Developer《
+
 
 》Special thanks to :
-》@Vysheng
-》@MrHalix
-》@Nero_Dev
-》And Beyond Team Members
+》@dev_sadik
+》And Days-Gone Members
 
 》Our channel :
-》@BeyondTeam《
+》@Days_Gone_boot《
 
 》Our website :
-》http://BeyondTeam.ir
+》https://t.me/Days_Gone_boot
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
