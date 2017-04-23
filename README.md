@@ -27,8 +27,8 @@ chmod +x Days-Gone.sh
 # أدخل رقم الهاتف ورمز التأكيد.
 
 # For Auto Launch:
-chmod 777 autobd.sh
-screen ./autobd.sh
+chmod 777 Days-Gone.sh
+screen ./Days-Gone.sh
 ```
 ### أمر واحد
 لتثبيت كل شيء في أمر واحد، استخدم:
