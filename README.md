@@ -18,7 +18,7 @@
 # تركيب
 
 ```sh
-تم صنع سورس على تي جي جديد
+تم صنع سورس ديز كان على تي جي جديد
 # دعونا تثبيت بوت.
 git clone https://github.com/sadikrapre12/Days-Gone.git
 cd Days-Gone
