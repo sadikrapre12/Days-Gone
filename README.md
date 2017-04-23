@@ -18,6 +18,7 @@
 # تركيب
 
 ```sh
+تم صنع سورس على تي جي جديد
 # دعونا تثبيت بوت.
 git clone https://github.com/sadikrapre12/Days-Gone.git
 cd Days-Gone
@@ -25,7 +26,7 @@ chmod +x Days-Gone.sh
 ./Days-Gone.sh install
 ./Days-Gone.sh 
 # أدخل رقم الهاتف ورمز التأكيد.
-
+مبروك عليك بوت
 # For Auto Launch:
 chmod 777 Days-Gone.sh
 screen ./Days-Gone.sh
