@@ -19,7 +19,6 @@
 
 ```sh
 # دعونا تثبيت بوت.
-cd $HOME
 git clone https://github.com/sadikrapre12/Days-Gone.git
 cd Days-Gone
 chmod +x Days-Gone.sh
@@ -34,11 +33,11 @@ screen ./autobd.sh
 ### أمر واحد
 لتثبيت كل شيء في أمر واحد، استخدم:
 ```sh
-cd $HOME && git clone https://github.com/sadikrapre12/Days-Gone.gitt && cd Days-Gone && chmod +x Days-Gone.sh && ./Days-Gone.sh install && ./Days-Gone.sh
+ git clone https://github.com/sadikrapre12/Days-Gone.gitt && cd Days-Gone && chmod +x Days-Gone.sh && ./Days-Gone.sh install && ./Days-Gone.sh
 
 OR
 
-cd $HOME && git clone https://github.com/sadikrapre12/Days-Gone.git && cd Days-Gone && chmod +x Days-Gone.sh && ./Days-Gone.sh install && chmod 777 autobd.sh && screen ./autobd.sh
+ git clone https://github.com/sadikrapre12/Days-Gone.git && cd Days-Gone && chmod +x Days-Gone.sh && ./Days-Gone.sh install && chmod 777 autobd.sh && screen ./autobd.sh
 ```
 
 * * *
