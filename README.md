@@ -31,9 +31,6 @@ chmod +x Days-Gone.sh
 chmod 777 Days-Gone.sh
 screen ./Days-Gone.sh
 ```
-المطور:@dev_sadik
-رابط قناة:https://t.me/Days_Gone_boot
-
 ### أمر واحد
 لتثبيت كل شيء في أمر واحد، استخدم:
 ```sh
