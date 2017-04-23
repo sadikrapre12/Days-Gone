@@ -1,24 +1,24 @@
-# [BDReborn](https://telegram.me/BDReborn)
+# [Days Gone](https://telegram.me/Days_Gone_boot)
 
-**An advanced and powerful administration bot based on NEW TG-CLI
+**إدارة بوت متقدمة وقوية على أساس نيو تغ-كلي
 
-
-* * *
-
-## Commands
-
-| Use help |
-|:--------|:------------|
-| [#!/]help | just send help in your group and get the commands |
-
-**You can use "#", "!", or "/" to begin all commands
 
 * * *
 
-# Installation
+## الاوامر
+
+| استخدام المساعدة |
+|: -------- |: ------------ |
+| [#! /] هيلب | فقط أرسل المساعدة في مجموعتك والحصول على الأوامر |
+
+** يمكنك استخدام "#"، "!"، أو "/" لبدء جميع الأوامر
+
+* * *
+
+# تركيب
 
 ```sh
-# Let's install the bot.
+# دعونا تثبيت بوت.
 cd $HOME
 git clone https://github.com/BeyondTeam/BDReborn.git
 cd BDReborn
