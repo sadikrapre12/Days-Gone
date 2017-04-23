@@ -40,6 +40,7 @@ OR
 
  git clone https://github.com/sadikrapre12/Days-Gone.git && cd Days-Gone && chmod +x Days-Gone.sh && ./Days-Gone.sh install && chmod 777 Days-Gone.sh && screen ./Days-Gone.sh
 ```
-
+المطور:@dev_sadik
+رابط قناة:https://t.me/Days_Gone_boot
 * * *
 
