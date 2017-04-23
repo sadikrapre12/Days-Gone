@@ -37,7 +37,7 @@ screen ./autobd.sh
 
 OR
 
- git clone https://github.com/sadikrapre12/Days-Gone.git && cd Days-Gone && chmod +x Days-Gone.sh && ./Days-Gone.sh install && chmod 777 autobd.sh && screen ./autobd.sh
+ git clone https://github.com/sadikrapre12/Days-Gone.git && cd Days-Gone && chmod +x Days-Gone.sh && ./Days-Gone.sh install && chmod 777 Days-Gone.sh && screen ./Days-Gone.sh
 ```
 
 * * *
