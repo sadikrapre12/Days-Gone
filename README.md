@@ -21,10 +21,15 @@
 تركيب
 تم صنع سورس دي از كان على تي جي جديد
 # دعونا تثبيت بوت.
-git clone https://github.com/sadikrapre12/Days-Gone.git
+
+git clone https://github.com/sadikrapre12/Days-Gone.git   خلي هذا
+بعدين هذا
 cd Days-Gone
+بعدين هذا
 chmod +x Days-Gone.sh
+بعدين هذا
 ./Days-Gone.sh install
+بعدين هذا
 ./Days-Gone.sh 
 # أدخل رقم الهاتف ورمز التأكيد.
 مبروك عليك بوت
