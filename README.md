@@ -34,7 +34,8 @@ chmod +x Days-Gone.sh    بعدين هذا
 
 # أدخل رقم الهاتف ورمز التأكيد.
 مبروك عليك بوت
-# For Auto Launch:
+
+# لإطلاق تلقائي:
 chmod 777 Days-Gone.sh
 screen ./Days-Gone.sh
 ```
